@@ -23,7 +23,7 @@ Here are some of my highlighted projects:
 A template based CRUD generator engine. 
 
 ## 🚀 GitHub Stats
-!Ellias(https://github-readme-stats.vercel.app/api?username=HarivonyEllias&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarivonyEllias&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 - [LinkedIn](soon...)
