@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Ellias.
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/HarivonyEllias)
-[![Linkedin: Harivony Ellias](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
+[![GitHub followers](https://img.shields.io/github/followers/HarivonyEllias?style=social)](https://github.com/HarivonyEllias)
+[![Linkedin: Harivony Ellias](https://img.shields.io/badge/-HarivonyEllias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat-square&logo=Hugo&logoColor=white&link=https://yourportfolio.com/)](https://yourportfolio.com/)
-[![Twitter: HarivonyEllias](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+[![Twitter: HarivonyEllias](https://img.shields.io/twitter/follow/HarivonyEllias?style=social)](https://twitter.com/yourhandle)
 
 Welcome to my GitHub profile! I'm deeply passionate about the art of speed coding, relishing algorithmic challenges, and crafting solutions that push the boundaries of efficiency.
 My expertise lies in the world of object-oriented programming, where I delve into the intricacies of MVC design patterns and thrive in crafting robust solutions.
