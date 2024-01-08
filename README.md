@@ -12,6 +12,7 @@ Exploring the depths of relational database design is another facet that intrigu
 ## 🔧 Technologies & Tools
 - Programming Languages: Java, JavaScript, C#, php, python
 - Frameworks/Libraries: Spring Boot, .NET, ReactJS, Ionic, CodeIgniter, Vue.js, Django
+- Databases: Oracle Database, PostgreSQL, SQL Server, MongoDB, MySQL, SQLite
 - Tools/Platforms: Jenkins, Git/Github, Docker
 - Cloud Platforms: AWS (Amazon Web Services), Azure, Google Cloud Platform (GCP), Railway
  
