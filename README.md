@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Ellias.
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/HarivonyEllias)
-[![Linkedin: yourname](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
+[![Linkedin: Harivony Ellias](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat-square&logo=Hugo&logoColor=white&link=https://yourportfolio.com/)](https://yourportfolio.com/)
-[![Twitter: yourhandle](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+[![Twitter: HarivonyEllias](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
 
 Welcome to my GitHub profile! I'm deeply passionate about the art of speed coding, relishing algorithmic challenges, and crafting solutions that push the boundaries of efficiency.
 My expertise lies in the world of object-oriented programming, where I delve into the intricacies of MVC design patterns and thrive in crafting robust solutions.
@@ -22,7 +22,7 @@ Here are some of my highlighted projects:
 A template based CRUD generator engine. 
 
 ## 🚀 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+!Ellias(https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 - [LinkedIn](soon...)
