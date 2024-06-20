@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/HarivonyEllias?style=social)](https://github.com/HarivonyEllias)
 [![Linkedin: Harivony Ellias](https://img.shields.io/badge/-HarivonyEllias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellias-harivony-67924a2a9/)](https://www.linkedin.com/in/ellias-harivony-67924a2a9/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat-square&logo=Hugo&logoColor=white&link=harivonyellias.netlify.app)](harivonyellias.netlify.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat-square&logo=Hugo&logoColor=white&link=https://harivonyellias.netlify.app/)](https://harivonyellias.netlify.app/)
 
 Welcome to my GitHub profile! I'm deeply passionate about the art of speed coding, relishing algorithmic challenges, and crafting solutions that push the boundaries of efficiency.
 My expertise lies in the world of object-oriented programming, where I delve into the intricacies of MVC design patterns and thrive in crafting robust solutions.
@@ -26,7 +26,7 @@ A template based CRUD generator engine.
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ellias-harivony-67924a2a9/)
-- [Portfolio](harivonyellias.netlify.app)
+- [Portfolio](https://harivonyellias.netlify.app/)
 - Email: harivonyellias@yahoo.com
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions! 😊
